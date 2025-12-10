@@ -139,20 +139,9 @@
   <img src="https://media.tenor.com/lUiGQFZNHhcAAAAM/cat-cat-licking.gif" width="260" />
 </div>
 
-<!-- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsukiMurasaki/TsukiMurasaki/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TsukiMurasaki/TsukiMurasaki/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TsukiMurasaki/TsukiMurasaki/output/github-contribution-grid-snake.svg">
-</picture> 
- -->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=130&color=31185a&rotate=0&animation=fadeIn&fontAlignY=30&section=footer&textBg=false"
     alt="Header"
   />
 </p>
-
-<!-- ❍ ──────────────────────╮
- Graduated in Information Security, currently pursuing a degree in Computer Engineering, and a lover of computer networks -->
