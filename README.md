@@ -27,7 +27,7 @@
   />
   <img
     src="https://i.imgur.com/C1mVk1b.png"
-    width="400"
+    width="300"
   />
 </p>
 
