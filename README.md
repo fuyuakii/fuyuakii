@@ -14,31 +14,30 @@
   </a>
 </p>
 
-
-
 ---
 
 **Hello! My name is** `Carlos G. Baratieri`
 
 > I am 22 years old, I have a degree in Technologist in Information Security (FATEC Ourinhos), I am currently pursuing a Bachelor’s degree in Computer Engineering (UTFPR-CP), and I am interested in computer networks, algorithms, data structures, and back-end development.
 
-
-<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true" width="560" />
-  <img src="https://i.imgur.com/C1mVk1b.png" width="400" />
-</div>
-
-
+<p align="center">
+  <img
+    src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true"
+    width="560"
+  />
+  <img
+    src="https://i.imgur.com/C1mVk1b.png"
+    width="400"
+  />
+</p>
 
 ---
 
 <details>
   <summary><b><code>Hard Skills</code></b></summary>
-  <br>
 
   <details>
     <summary><b>Languages</b></summary>
-    <br>
     <p><b>Programming</b></p>
     <p>
       <img src="https://skillicons.dev/icons?i=c" width="50" />
@@ -80,19 +79,19 @@
 
 </details>
 
-
 ---
+
 <details>
-  <summary><b><code> Contacts </code></b></summary>
-  <br>
+  <summary><b><code>Contacts</code></b></summary>
+
   <p align="left">
     <a href="mailto:carlosbaratieri@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
     </a>
-    <a href="https://dev.to/tsukimurasaki" target="_blank">
+    <a href="https://dev.to/tsukimurasaki">
       <img src="https://skillicons.dev/icons?i=devto" width="50"/>
     </a>
-    <a href="https://leetcode.com/u/TsukiMurasaki/" target="_blank">
+    <a href="https://leetcode.com/u/TsukiMurasaki/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-plain.svg" width="50"/>
     </a>
   </p>
@@ -109,13 +108,9 @@
   </a>
 </p>
 
-<!-- <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.tenor.com/lUiGQFZNHhcAAAAM/cat-cat-licking.gif" width="260" />
-</div> -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=130&color=31185a&rotate=0&animation=fadeIn&fontAlignY=30&section=footer&textBg=false"
-    alt="Header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=130&color=31185a&animation=fadeIn&fontAlignY=30&section=footer"
+    alt="Footer"
   />
 </p>
