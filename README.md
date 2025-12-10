@@ -111,21 +111,6 @@
 
 ---
 
-  <br>
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsukiMurasaki&theme=rose_pine"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsukiMurasaki&theme=rose_pine"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TsukiMurasaki&theme=rose_pine"/>
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsukiMurasaki&theme=rose_pine"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TsukiMurasaki&theme=rose_pine&utcOffset=8"/>
-  </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
