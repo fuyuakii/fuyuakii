@@ -33,49 +33,53 @@
 ---
 
 <details>
-  <summary><b><code> Hard Skills </code></b></summary>
+  <summary><b><code>Hard Skills</code></b></summary>
   <br>
+
   <details>
-    <summary><b style="color:#EBBCBA;">Languages</b></summary><br>
-    <p align="left"><b style="color:#9CCFD8;">Programming</b></p>
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=c" width="50"/>
-      <img src="https://skillicons.dev/icons?i=cpp" width="50"/>
-      <img src="https://skillicons.dev/icons?i=python" width="50"/>
-      <img src="https://skillicons.dev/icons?i=java" width="50"/>
+    <summary><b>Languages</b></summary>
+    <br>
+    <p><b>Programming</b></p>
+    <p>
+      <img src="https://skillicons.dev/icons?i=c" width="50" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+      <img src="https://skillicons.dev/icons?i=python" width="50" />
+      <img src="https://skillicons.dev/icons?i=java" width="50" />
     </p>
-    <p align="left"><b style="color:#9CCFD8;">Markup</b></p>
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=html" width="50"/>
-      <img src="https://skillicons.dev/icons?i=latex" width="50"/>
+    <p><b>Markup</b></p>
+    <p>
+      <img src="https://skillicons.dev/icons?i=html" width="50" />
+      <img src="https://skillicons.dev/icons?i=latex" width="50" />
     </p>
-    <p align="left"><b style="color:#9CCFD8;">Scripting</b></p>
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=bash" width="50"/>
-      <img src="https://skillicons.dev/icons?i=regex" width="50"/>
+    <p><b>Scripting</b></p>
+    <p>
+      <img src="https://skillicons.dev/icons?i=bash" width="50" />
+      <img src="https://skillicons.dev/icons?i=regex" width="50" />
     </p>
   </details>
 
   <details>
-    <summary><b style="color:#EBBCBA;">Databases</b></summary>
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-      <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50"/>
+    <summary><b>Databases</b></summary>
+    <p>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" />
     </p>
   </details>
 
   <details>
-    <summary><b style="color:#EBBCBA;">OS & Networking</b></summary>
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=docker" width="50"/>
-      <img src="https://skillicons.dev/icons?i=linux" width="50"/>
-      <img src="https://skillicons.dev/icons?i=nginx" width="50"/>
-      <img src="https://skillicons.dev/icons?i=aws" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50"/>
+    <summary><b>OS & Networking</b></summary>
+    <p>
+      <img src="https://skillicons.dev/icons?i=docker" width="50" />
+      <img src="https://skillicons.dev/icons?i=linux" width="50" />
+      <img src="https://skillicons.dev/icons?i=nginx" width="50" />
+      <img src="https://skillicons.dev/icons?i=aws" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" />
     </p>
   </details>
+
 </details>
+
 
 ---
 <details>
