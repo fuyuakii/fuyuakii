@@ -25,7 +25,7 @@
 
 <div align="left" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true" width="560" />
-  <img src="https://i.pinimg.com/originals/e9/21/6f/e9216fadf48c2842ca0961c2e10e0658.gif" width="250" />
+  <!-- <img src="https://i.pinimg.com/originals/e9/21/6f/e9216fadf48c2842ca0961c2e10e0658.gif" width="250" /> -->
 </div>
 
 
@@ -109,9 +109,9 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<!-- <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://media.tenor.com/lUiGQFZNHhcAAAAM/cat-cat-licking.gif" width="260" />
-</div>
+</div> -->
 
 <p align="center">
   <img
