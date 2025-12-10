@@ -25,7 +25,7 @@
 
 <div align="left" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
   <img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true" width="560" />
-  <!-- <img src="https://i.pinimg.com/originals/e9/21/6f/e9216fadf48c2842ca0961c2e10e0658.gif" width="250" /> -->
+  <img src="https://i.pinimg.com/originals/d9/e7/06/d9e706f940f884bf0d597719d8a24b97.gif" width="250" />
 </div>
 
 
