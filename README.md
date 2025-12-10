@@ -25,10 +25,6 @@
     src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true"
     width="560"
   />
-  <img
-    src="https://i.imgur.com/C1mVk1b.png"
-    width="300"
-  />
 </p>
 
 ---
