@@ -75,21 +75,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50"/>
     </p>
   </details>
-
-  <details>
-    <summary><b style="color:#EBBCBA;">Tools & Technologies</b></summary>
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-      <img src="https://skillicons.dev/icons?i=vim" width="50"/>
-      <img src="https://skillicons.dev/icons?i=neovim" width="50"/>
-      <img src="https://skillicons.dev/icons?i=obsidian" width="50"/>
-      <img src="https://skillicons.dev/icons?i=notion" width="50"/>
-      <img src="https://skillicons.dev/icons?i=github" width="50"/>
-      <img src="https://skillicons.dev/icons?i=git" width="50"/>
-      <img src="https://skillicons.dev/icons?i=gtk" width="50"/>
-      <img src="https://skillicons.dev/icons?i=cmake" width="50"/>
-    </p>
-  </details>
 </details>
 
 ---
