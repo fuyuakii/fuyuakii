@@ -23,8 +23,8 @@
 <p align="center">
   <table align="center">
     <tr>
+      <td><img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true" width="500"/></td>
       <td><img src="1000107055.jpg" width="500"/></td>
-      <td><img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true" width="700"/></td>
     </tr>
   </table>
 </p>
