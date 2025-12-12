@@ -21,11 +21,14 @@
 > I am 22 years old, I have a degree in Technologist in Information Security (FATEC Ourinhos), I am currently pursuing a Bachelor’s degree in Computer Engineering (UTFPR-CP), and I am interested in computer networks, algorithms, data structures, and back-end development.
 
 <p align="center">
-  <img
-    src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true"
-    width="560"
-  />
+  <table align="center">
+    <tr>
+      <td><img src="1000107055.jpg" width="500"/></td>
+      <td><img src="https://chinmay29hub-haiku-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=true" width="700"/></td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
