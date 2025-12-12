@@ -100,6 +100,19 @@
 
 ---
 
+<details>
+  <summary><b><code>UTFPR Announcements & Opportunities</code></b></summary>
+  
+> Fui monitor da disciplina de Algoritmos 1 no primeiro semestre de 2025 e, em 2026, fui aprovado em um edital para trabalhar no Laboratório e Centro de Computação Científica e Tecnológica (CCCT-CP).
+> 
+  
+- [Seleção 2025/1 de Estudantes Monitores - UTFPR](https://www.utfpr.edu.br/editais/graduacao-e-educacao-profissional/cornelioprocopio/selecao-2025-1-de-estudantes-monitores-de-atendimento-ao-estudante-mat-e-apoio-ao-docente-map-da-utfpr-do-campus-cornelio-procopio)
+- [Laboratório Multiusuário CCCT-CP - UTFPR](https://www.utfpr.edu.br/editais/pesquisa-e-pos-graduacao/laboratorios-multiusuarios/ccct-cp/bolsista_nivel_medio_2025)
+</details>
+
+
+---
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
@@ -108,6 +121,11 @@
     />
   </a>
 </p>
+
+
+
+---
+
 
 <p align="center">
   <img
