@@ -101,7 +101,7 @@
 ---
 
 <details>
-  <summary><b><code>UTFPR Announcements & Opportunities</code></b></summary>
+  <summary><b><code>UTFPR/Fatec Announcements & Opportunities</code></b></summary>
   
 > Fui monitor da disciplina de Algoritmos 1 no primeiro semestre de 2025 e, em 2026, fui aprovado em um edital para trabalhar no Laboratório e Centro de Computação Científica e Tecnológica (CCCT-CP). Na Fatec, realizei um estágio com pouca alinhamento de plano trabalhista, mas o principal foi a criação de desafios (CTFs) para a Semana da Segurança da Informação.
   
